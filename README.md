@@ -30,4 +30,4 @@ Best friend recommendation using Mapreduce
 
 2）根据共同好友的数量对结果进行排序。
 
-## 实验生成的jar包可以直接在虚拟机上进行分布式实验
+实验生成的jar包可以直接在虚拟机上进行分布式实验
